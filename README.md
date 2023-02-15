@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center"> <img src="https://github.com/manu-mello/meio-do-ceu/blob/main/img/binoculos.png" alt=""></p>
-<p align="center">Um site que simula a tela de inscrição da newsletter Meio do céu,
+<p align="center">Um site que simula a tela de inscrição da newsletter Meio do céu,<br>
 baseado no projeto do curso de Tailwind CSS da escola Alura.</p>
 
 ## Tecnologias
