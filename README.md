@@ -15,3 +15,6 @@ baseado no projeto do curso de Tailwind CSS da escola Alura.</p>
 
 ## Mobile
 ![image](https://github.com/manu-mello/meio-do-ceu/blob/main/img/mobile.png)
+
+
+Projeto original para comparação: https://github.com/alura-cursos/aluranewsletter/tree/aula_5
